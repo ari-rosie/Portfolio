@@ -1,0 +1,13 @@
+header ul {
+  display: flex;
+  justify-content: center;
+}
+
+header li {
+  margin: 0 10px 5px 0;
+  font-family: "Satisfy", cursive;
+}
+
+header a {
+  color: rgb(77, 77, 77);
+}

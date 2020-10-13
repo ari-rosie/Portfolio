@@ -1,0 +1,16 @@
+.footer_wrapper h2,
+.footer_wrapper h3,
+.footer_wrapper p {
+  text-align: center;
+}
+
+footer h2 {
+  margin: 10px 0;
+  font-size: 1.5em;
+}
+
+footer h3 {
+  margin: 10px 0;
+  font-size: 2em;
+  color: rgb(255, 100, 100);
+}

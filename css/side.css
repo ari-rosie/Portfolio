@@ -1,0 +1,23 @@
+aside {
+  width: 25%;
+  margin: 40px 10px 0 20px;
+  color: rgba(255, 100, 100, 0.5);
+  font-family: "Satisfy", cursive;
+  font-size: 2em;
+}
+
+aside h3 {
+  font-family: "Satisfy", cursive;
+  margin: 10px 0 5px 5px;
+  color: rgb(255, 219, 77);
+  text-transform: lowercase;
+  font-size: 1.5em;
+}
+
+aside p {
+  transition: all 1s ease-in 1s;
+}
+
+aside:hover p {
+  color: rgba(255, 100, 100, 1);
+}
