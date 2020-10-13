@@ -1,6 +1,6 @@
 header ul {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 header li {
