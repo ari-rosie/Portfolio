@@ -6,12 +6,28 @@ aside {
   font-size: 2em;
 }
 
+@media only screen and (max-width: 600px) {
+  aside {
+    width: 75%;
+    font-size: 1.5em;
+    color: rgba(77, 77, 77, 0.5);
+    text-align: justify;
+    margin: 20% auto 0 auto;
+  }
+}
+
 aside h3 {
   font-family: "Satisfy", cursive;
   margin: 10px 0 5px 5px;
   color: rgb(255, 219, 77);
   text-transform: lowercase;
   font-size: 1.5em;
+}
+
+@media only screen and (max-width: 600px) {
+  aside h3 {
+    text-align: right;
+  }
 }
 
 aside p {
