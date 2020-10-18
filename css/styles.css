@@ -4,6 +4,11 @@
 @import "/css/main.css";
 @import "/css/side.css";
 @import "/css/footer.css";
+@import "/css/portfolio.css";
+
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   height: 100vh;
