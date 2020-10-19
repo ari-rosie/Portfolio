@@ -10,4 +10,5 @@ const hoverProject = (description) => {
     projectDescription.innerHTML = description;
 };
 
+
 // hoverProject("test");
