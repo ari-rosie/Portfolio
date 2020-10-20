@@ -11,6 +11,7 @@ const hoverProject = (description, image) => {
     if (image) {
         main.style.backgroundImage = image;
         main.style.backgroundSize = "cover";
+        main.style.backgroundPosition = "center";
     }
     else 
         main.style.backgroundImage = "none";
